@@ -1,0 +1,16 @@
+.text {
+  background: lightcoral;
+  font-family: "DejaVu Sans", Verdana, Geneva, Tahoma, sans-serif;
+}
+#number2 {
+  font-size: 36px;
+  color: blue;
+}
+.bold {
+  font-size: 24px;
+}
+#number4 {
+  font-size: 24px;
+  background: lightgreen;
+  font-weight: bold;
+}
